@@ -12,7 +12,7 @@ export const Header = () => {
     
         <h3>
           <a href="#home" className="link">
-            Prashant Bhatiya
+            Dhruba Singha
           </a>
         </h3>
         <Navbar />

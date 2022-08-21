@@ -16,7 +16,7 @@ export const About = () => {
     <>
       <div className="about center">
         <h1 data-aos="fade-right">
-          Hi, I am <span className="about__name">Prashant Bhatiya</span>
+          Hi, I am <span className="about__name">Dhruba Singha</span>
         </h1>
         <Type />
         <p className="about__desc" data-aos="fade-right">
@@ -27,7 +27,7 @@ export const About = () => {
         </p>
         <div className="about__contact center">
           <a
-            href="https://github.com/Prashant-Bhatiya"
+            href="https://github.com/Dhruba1010"
             aria-label="github"
             target="_blank"
             rel="noreferrer"
@@ -36,7 +36,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="mailto:webdeveloper.prashant@gmail.com"
+            href="mailto:dhrubasingha096p@gmail.com"
             target="_blank"
             rel="noreferrer"
             aria-label="github"
@@ -45,7 +45,7 @@ export const About = () => {
             <EmailIcon />
           </a>
           <a
-            href="tel:+919586784989"
+            href="tel:+919002999506"
             target="_blank"
             rel="noreferrer"
             aria-label="github"
@@ -54,7 +54,7 @@ export const About = () => {
             <PhoneIcon />
           </a>
           <a
-            href="https://www.linkedin.com/in/prashant-bhatiya"
+            href="https://www.linkedin.com/in/dhruba-singha"
             aria-label="github"
             className="link link--icon"
             target="_blank"
@@ -63,7 +63,7 @@ export const About = () => {
             <LinkedInIcon />
           </a>
           <a
-            href="https://drive.google.com/file/d/1QwwtGv3dE9KGv2_ZMFyN74H9tSA54MaT/view?usp=sharing"
+            href="https://drive.google.com/file/d/1DrEz1cjXgIPZiTPR7Drs4MlgUun4RE6T/view?usp=sharing"
             aria-label="github"
             className="link link--icon"
             target="_blank"
@@ -71,17 +71,8 @@ export const About = () => {
           >
             <DescriptionIcon />
           </a>
-          {/* <a
-            href="https://www.facebook.com/gautam.verma.714655"
-            aria-label="github"
-            className="link link--icon"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FacebookIcon />
-          </a> */}
           <a
-            href="https://www.google.com/maps/place/Ahmedabad,+Gujarat/@23.0202434,72.5797426,11z/data=!3m1!4b1!4m5!3m4!1s0x395e848aba5bd449:0x4fcedd11614f6516!8m2!3d23.022505!4d72.5713621"
+            href="https://www.google.com/maps/place/Jajigram,+West+Bengal+731221/@24.4793335,87.9480052,15z/data=!4m13!1m7!3m6!1s0x39fa38e965647c2b:0xcc8176f0a09daca2!2sJajigram,+West+Bengal+731221!3b1!8m2!3d24.4793335!4d87.9567599!3m4!1s0x39fa38e965647c2b:0xcc8176f0a09daca2!8m2!3d24.4793335!4d87.9567599"
             aria-label="github"
             className="link link--icon"
             target="_blank"

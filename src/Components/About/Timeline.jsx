@@ -33,7 +33,7 @@ export const Timeline = () => {
         <VerticalTimeline lineColor={linecolor}>
           
           <VerticalTimelineElement
-            date={"Oct 2021 - Present"}
+            date={"Dec 2021 - Present"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               backgroundColor: `var(--clr-bg)`,
@@ -51,53 +51,18 @@ export const Timeline = () => {
               className="vertical-timeline-element-title"
               data-aos="fade-right"
             >
-              Student
+              Full-Stack Web Development
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-              Masai School (Remote)
+              Masai School, Bengaluru
             </h4>
-              <p data-aos="fade-right">
-              Joined MERN Stack Developer Bootcamp to learn Software Development
-              and Data Structures
-            </p>
-          {/* </VerticalTimelineElement>
-          <VerticalTimelineElement
-            date={"Sep 2017 - June 2020"}
-            contentStyle={{
-              boxShadow: `var(--shadow)`,
-              backgroundColor: `var(--clr-bg)`,
-              textAlign: "center",
-              color: `var(--clr-fg-alt)`
-            }}
-            contentArrowStyle={{ borderRight: "16px solid  rgb(33, 150, 243)" }}
-            iconStyle={{
-              backgroundColor: `var(--clr-bg)`,
-              color: `var(--clr-primary)`
-            }}
-            icon={<SchoolIcon />}
-          >
-            <h3
-              className="vertical-timeline-element-title"
-              data-aos="fade-right"
-            >
-              Maintenance Engineer
-            </h3>
-            <h4
-              className="vertical-timeline-element-subtitle"
-              data-aos="fade-right"
-            >
-           Ralson India Ltd
-            </h4>
-            <p data-aos="fade-right">
-             Worked as a Maintenance Engineer
-            </p> */}
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"Jun 2017 - Present"}
+            date={"Jun 2015 - Jun 2020"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               backgroundColor: `var(--clr-bg)`,
@@ -115,19 +80,19 @@ export const Timeline = () => {
               className="vertical-timeline-element-title"
               data-aos="fade-right"
             >
-              B.tech
+              B.tech in Electrical Engineering
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-             Apollo Institute of Engineering and Technology
+             Narula Institute of Technology, Kolkata
             </h4>
           </VerticalTimelineElement>
          
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date={"May 2013 - May 2017"}
+            date={"March 2013 - March 2015"}
             contentStyle={{
               boxShadow: `var(--shadow)`,
               backgroundColor: `var(--clr-bg)`,
@@ -145,13 +110,13 @@ export const Timeline = () => {
               className="vertical-timeline-element-title"
               data-aos="fade-right"
             >
-              Diploma
+              Higher Secondary (Science)
             </h3>
             <h4
               className="vertical-timeline-element-subtitle"
               data-aos="fade-right"
             >
-             Atul Polytechnic
+             Rampurhat High School, Rampurhat
             </h4>
             {/* <p data-aos="fade-right">Secured 63%</p> */}
           </VerticalTimelineElement>

@@ -8,11 +8,11 @@ export const Footer = () => {
     <>
       <div className = {` ${themename} section `}>
         <a
-          href="https://github.com/Prashant-Bhatiya"
+          href="https://github.com/Dhruba1010"
           rel="noreferrer"
           target="_blank"
         >
-          <h3  className = {` ${themename} footer`}>Made By Prashant Bhatiya</h3>
+          <h3  className = {` ${themename} footer`}>Made By Dhruba Singha</h3>
         </a>
       </div>
     </>

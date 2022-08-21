@@ -13,17 +13,15 @@ export const Introduction = () => {
           <div className="introduction">
             <div className="introduction_logocontainer">
               <img
-                src= "https://i.ibb.co/ctHkbDK/0000001-removebg-preview-Cropped.png"
+                src= "https://i.ibb.co/Fz0SMQt/new-photo-new.jpg"
                 alt="Images"
               />
             </div>
             <div className="introduction_datacontainer">
               <h4>
                 Hi Everyone, I am{" "}
-                <span className="different">Prashant Bhatiya </span> from{" "}
-                <span className="different"> Ahmedabad, Gujarat</span>. I am in my 4th year of B.Tech in Civil
-                 Engineering from
-                Apollo Institute of Engineering and Technology, Ahmedabad.
+                <span className="different">Dhruba Singha </span> from{" "}
+                <span className="different"> Jajigram, Birbhum, West Bengal</span>.  I have completed my graduation in 2020 in the Electrical Engineering department from Narula Institute of Technology, Kolkata.
               </h4>
               <h4>
                 Apart from coding, some other activities that I love to do!
@@ -32,25 +30,25 @@ export const Introduction = () => {
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Swimming{" "}
+                Gamming{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Solving Problems{" "}
+                Listening Rock Musics{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Learning Algorithms{" "}
+                Playing Chess{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
                   <ExitToAppIcon />
                 </span>
-                Listening to Music{" "}
+                Watching Sports{" "}
               </h4>
               <h4 className="different">
                 <span className="icons">
