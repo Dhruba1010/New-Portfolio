@@ -36,7 +36,7 @@ export const About = () => {
             <GitHubIcon />
           </a>
           <a
-            href="mailto:dhrubasingha096p@gmail.com"
+            href="mailto:dhrubasinha096p@gmail.com"
             target="_blank"
             rel="noreferrer"
             aria-label="github"
@@ -63,7 +63,7 @@ export const About = () => {
             <LinkedInIcon />
           </a>
           <a
-            href="https://drive.google.com/file/d/1EJCQFRYyL6ljg12ZYsbnKhJVoRzA7i13/view?usp=sharing"
+            href="https://drive.google.com/file/d/100td1d4ZnMwetMDw2FszZczASpLsXDLR/view?usp=sharing"
             aria-label="github"
             className="link link--icon"
             target="_blank"

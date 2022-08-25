@@ -37,7 +37,7 @@ export const Contact = () => {
           </a>
         </div>
         <div>
-          <div id={`  ${themename} `} className= "mine"><p>Email: dhrubasingha096p@gmail.com</p></div>
+          <div id={`  ${themename} `} className= "mine"><p>Email: dhrubasinha096p@gmail.com</p></div>
           <div id={`${themename} `} className= "mine1"><p>Phone: +91 90029 99506</p></div>
         </div>
       </div>
